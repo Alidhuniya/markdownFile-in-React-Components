@@ -2,7 +2,7 @@ import React from "react";
 // import logo from './logo.svg';
 import AppMarkdown from "./readme/README.md";
 import "./App.css";
-import marked from "marked";
+// import marked from "marked";
 import ReactMarkdown from "react-markdown";
 
 /*
